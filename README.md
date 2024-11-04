@@ -26,3 +26,10 @@
 
 Enjoy the challenge and test your memory skills- SequenceThis!!!
 
+##IMAGES
+![Home-Screen](https://github.com/carljoe156/ALAB-316-2-1-WEB-GAME/blob/main/img/Home-Screen.png?raw=true)
+![Welcome-To-Game](https://github.com/carljoe156/ALAB-316-2-1-WEB-GAME/blob/main/img/Welcome-Screen.png?raw=true)
+![Enter-A-Number](https://github.com/carljoe156/ALAB-316-2-1-WEB-GAME/blob/main/img/Enter-A-Number.png?raw=true)
+![Winner](https://github.com/carljoe156/ALAB-316-2-1-WEB-GAME/blob/main/img/Winner-Screen.png?raw=true)
+
+
